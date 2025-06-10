@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\afrir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\vs\\ver1winforms\\winformsapp3\\winformsapp3\\materialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\materialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\afrir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\vs\\ver1winforms\\winformsapp3\\winformsapp3\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\afrir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\vs\\ver1winforms\\winformsapp3\\winformsapp3\\models\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\materialtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\afrir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\vs\\ver1winforms\\winformsapp3\\winformsapp3\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\view\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\view\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\winformsapp3\\models\\partners03context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF6A678-F3DD-46DF-AC08-DE2DBBAC0282}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\partners03context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 376,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\ProductType.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:57:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialType.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\MaterialType.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\MaterialType.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\MaterialType.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\MaterialType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:23:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\MaterialCalculator.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\MaterialCalculator.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\MaterialCalculator.cs",
+              "RelativeToolTip": "WinFormsApp3\\MaterialCalculator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:52:44.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Product.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:05:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Sale.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:00:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesHistory.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\SalesHistory.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\SalesHistory.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\SalesHistory.cs",
+              "RelativeToolTip": "WinFormsApp3\\View\\SalesHistory.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwCQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:53:53.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\SalesHistory.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\SalesHistory.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\WinFormsApp3\\WinFormsApp3\\View\\SalesHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\WinFormsApp3\\WinFormsApp3\\View\\SalesHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:51:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\View\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwGIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:22:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\Form2.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp3\\View\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:25:37.005Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\WinFormsApp3\\WinFormsApp3\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\WinFormsApp3\\WinFormsApp3\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:13:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\View\\Form2.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\View\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp3\\View\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:25:46.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Partners03Context.cs",
+              "DocumentMoniker": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Partners03Context.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\Partners03Context.cs",
+              "ToolTip": "C:\\Users\\afrir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0414\u042D\\vs\\ver1WinForms\\WinFormsApp3\\WinFormsApp3\\Models\\Partners03Context.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\Partners03Context.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCwAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:23:00.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
