@@ -1,0 +1,238 @@
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddEditPartnerForm.resources
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PartnerControl.resources
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SalesHistory.resources
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Demo1C\Desktop\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddEditPartnerForm.resources
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PartnerControl.resources
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SalesHistory.resources
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddEditPartnerForm.resources
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PartnerControl.resources
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SalesHistory.resources
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4K\ДЕМОЭКЗ\демо_пробник\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddEditForm2.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AddEditPartnerForm.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.PartnerControl.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.SalesHistory.resources
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\afrir\OneDrive\Рабочий стол\ДЭ\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
